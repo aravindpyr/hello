@@ -19,7 +19,7 @@ Cuttlefish or cuttles[3] are marine molluscs of the order Sepiida. They belong t
   background:  blue;
   }
 
-Cuttlefish eat small molluscs, crabs, shrimp, fish, octopus, worms, and other cuttlefish. Their predators include dolphins, sharks, fish, seals, seabirds, and other cuttlefish. The average life expectancy of a cuttlefish is about 1–2 years. Recent studies indicate cuttlefish are among the most intelligent invertebrates.[5] Cuttlefish also have one of the largest brain-to-body size ratios of all invertebrates.[5]
+<a href="cuttli.html">Cuttlefish</a> eat small molluscs, crabs, shrimp, fish, octopus, worms, and other cuttlefish. Their predators include dolphins, sharks, fish, seals, seabirds, and other cuttlefish. The average life expectancy of a cuttlefish is about 1–2 years. Recent studies indicate cuttlefish are among the most intelligent invertebrates.[5] Cuttlefish also have one of the largest brain-to-body size ratios of all invertebrates.[5]
 
 The "cuttle" in cuttlefish comes from the Old English name for the species, cudele, which may be cognate with the Old Norse koddi (cushion) and the Middle Low German Kudel (rag).[6] The Greco-Roman world valued the cuttlefish as a source of the unique brown pigment the creature releases from its siphon when it is alarmed. The word for it in both Greek and Latin, sepia, now refers to the reddish-brown color sepia in English.
 
